@@ -3,4 +3,7 @@ title: Characters
 draft: false
 tags:
 ---
-[[Aerindil]]
+
+| Name         | Role             |     |
+| ------------ | ---------------- | --- |
+| [[Aerindil]] | Player Character |     |

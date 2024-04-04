@@ -3,8 +3,6 @@ title: Arc of The Spell Blade - Homepage
 ---
 ![[Titlecard.webp]]
 
-Welcome to the world of... The quick brown fox jumps over the lazy dog >:D
+Welcome to the Campaign "The Arc of the Spell Blade"
 
-Test #2
-
- [[Characters]] [[Sessions]] [[Classes]]
+ [[Characters]] [[Campaign Sessions]] [[Classes]]

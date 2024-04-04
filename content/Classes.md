@@ -5,7 +5,7 @@
 > Uses stealth to scout and possible assassinate targets. They are limited to smaller weapons but are agile. The only spells they have access to are stealth-related
 
 > [!Tip] Martial Artist
-> These Knights are like a tank; they use their skills to overpower their enemies using a combo of [[Dexterity]] and [[Strength]]. Their weapons are limited to how they allocate their attributes. The only spells they have access to are self-healing or curing.
+> These knights are like a tank; they use their skills to overpower their enemies using a combo of [[Dexterity]] and [[Strength]]. Their weapons are limited to how they allocate their attributes. The only spells they have access to are self-healing or curing.
 
 > [!Tip] Spellblade
 > These knights are adept at using both magic and swordsmanship. A balance between one-handed swordplay and casting magic with their offhand to either buff their sword or cast distractions. The only spells accessible are one-handed spells that can buff your weapon or distract the enemy.
