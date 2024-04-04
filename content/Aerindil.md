@@ -13,9 +13,9 @@ Spellblade
 - Hit Points: 12 (Current: **12**)
 ## Characteristics:
 
-| Alignment: <br>*Chaotic Neutral* | Gender: <br>Female | Eyes:<br>Purple | Size:<br>Medium | Height:<br>6'4"    |
-| -------------------------------- | ------------------ | --------------- | --------------- | ------------------ |
-| Faith:<br> Beelzebub             | Hair:<br>White     | Skin:<br>White  | Age:<br>27      | Weight:<br>129 lbs |
+| Alignment: <br>*Chaotic Neutral* | Gender: <br>Female    | Eyes:<br>Purple | Size:<br>Medium | Height:<br>6'4"    |
+| -------------------------------- | --------------------- | --------------- | --------------- | ------------------ |
+| Faith:<br> Beelzebub             | Hair:<br>White-Purple | Skin:<br>White  | Age:<br>27      | Weight:<br>129 lbs |
 
 ---
 
