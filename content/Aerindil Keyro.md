@@ -3,6 +3,7 @@ title: Aerindil Keyro
 draft: false
 tags:
   - explorerexclude
+  - PC
 ---
 
 ![[AerindilSymbolic.jpeg|600]]

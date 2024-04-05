@@ -23,3 +23,12 @@ A <font color=cf9400>Dexterity Check</font> can model any attempt to move nimbly
 ## Initiative
 [[Ability Scores#Initiative]] is determined by rolling a <font color=cf9400>Dexterity</font> check, this will determine the turn order in combat or any other turn-based moments.
 
+# Constitution
+
+# Intelligence
+
+# Wisdom
+
+# Charisma
+
+
