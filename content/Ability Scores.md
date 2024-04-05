@@ -9,11 +9,10 @@ aliases:
 cssclasses:
 ---
 # Strength
-<font color=cf9400>Strength</font> (also known as <font color=cf9400> STR </font> measures bodily power, athletic training, and the extent to which you can exert raw physical force. If encumbrance rules are being applied, the weight capacity (in lbs.) is your <font color=cf9400>Strength</font> score multiplied by 15 ^f524d2
+
+<font color=cf9400>Strength</font> (also known as <font color=cf9400> STR </font> measures bodily power, athletic training, and the extent to which you can exert raw physical force. If encumbrance rules are being applied, the weight capacity (in lbs.) is your <font color=cf9400>Strength</font> score multiplied by 15
 
 # Dexterity
-
-^1002f8
 
 <font color=cf9400>Dexterity</font> (also known as <font color=cf9400>DEX</font> measures ones agility, reflexes, and balance.
 
