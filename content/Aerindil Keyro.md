@@ -6,7 +6,7 @@ tags:
   - PC
 ---
 
-![[AerindilSymbolic.jpeg|600]]
+![[AerindilSymbolic.jpeg|1000]]
 *A symbolic image of Aerindil*
 
 ## Characteristics:
