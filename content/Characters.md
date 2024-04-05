@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 
-| Name         | Role             |     |
-| ------------ | ---------------- | --- |
+| Name               | Role             |     |
+| ------------------ | ---------------- | --- |
 | [[Aerindil Keyro]] | Player Character |     |
-|              |                  |     |
+| [[Silvershadow]]   | Player Character |     |
