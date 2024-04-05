@@ -6,4 +6,5 @@ tags:
 
 | Name         | Role             |     |
 | ------------ | ---------------- | --- |
-| [[Aerindil]] | Player Character |     |
+| [[Aerindil Keyro]] | Player Character |     |
+|              |                  |     |
